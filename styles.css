@@ -1,0 +1,12 @@
+p{
+    color:TEAL;
+    border-style: inset;
+
+     padding:0.5em ;
+}
+#block{
+    width: 300px;
+background-color:SILVER;
+border-style: dashed solid;
+padding:0.5em ;}
+
